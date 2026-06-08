@@ -12,9 +12,9 @@ enum layers {
 enum custom_keycodes {
   TO_JIS = SAFE_RANGE,
   TO_DVORAK,
-  // NEXT_ITERM,
-  // GO_NEXT_WINDOW,
-  // GO_PREVIOUS_WINDOW,
+  NEXT_ITERM,
+  GO_NEXT_WINDOW,
+  GO_PREVIOUS_WINDOW,
 };
 
 // clang-format off
